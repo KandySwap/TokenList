@@ -1,0 +1,46 @@
+{
+    "name": "KandySwap Menu",
+    "logoURI": "https://kandyswap.com/logo.png",
+    "keywords": ["kandyswap", "default"], 
+    "timestamp": "2021-07-01T00:00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "tokens": [
+      {
+        "address": "0x8c8a54381b1fc988978d89978dd3b198f4ca54c0",
+        "chainId": 321,
+        "name": "Kandy",
+        "symbol": "KANDY",
+        "decimals": 18,
+        "logoURI": "https://kandyswap.com/logo.png"
+      },
+      {
+        "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+        "chainId": 321,
+        "name": "Wrapped KCS",
+        "symbol": "WKCS",
+        "decimals": 18,
+        "logoURI": "https://static.explorer.kcc.io/group1/M00/00/33/rB8lrmDMHSWAWeecAAFdQ40JN1o177.jpg"
+      },
+      {
+        "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+        "chainId": 321,
+        "name": "KCC-Peg Tether USD",
+        "symbol": "USDT",
+        "decimals": 18,
+        "logoURI": "https://static.explorer.kcc.io/group1/M00/00/33/rB8lrmDMJHWABIPdAAAi_DUwoNw756.jpg"
+      },
+      {
+        "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+        "chainId": 321,
+        "name": "KCC-Peg USD Coin",
+        "symbol": "USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+      }
+    ]
+  }
